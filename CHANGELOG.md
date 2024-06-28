@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0-beta.0](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.6.0-beta.0...v2.7.0-beta.0) (2024-06-28)
+
+
+### Features
+
+* **ts/padding-line-between-statements:** support for enum ([#453](https://github.com/eslint-stylistic/eslint-stylistic/issues/453)) ([7126f21](https://github.com/eslint-stylistic/eslint-stylistic/commit/7126f21429bab2afb7f5fd1dd97a3c9fbfd897e2))
+
 ## [2.6.0-beta.0](https://github.com/eslint-stylistic/eslint-stylistic/compare/v2.3.0...v2.6.0-beta.0) (2024-06-27)
 
 
