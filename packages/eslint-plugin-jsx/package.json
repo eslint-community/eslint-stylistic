@@ -1,6 +1,6 @@
 {
   "name": "@stylistic/eslint-plugin-jsx",
-  "version": "2.3.0",
+  "version": "2.6.0-beta.0",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/eslint-stylistic/eslint-stylistic#readme",
@@ -76,7 +76,7 @@
     "@babel/plugin-syntax-function-bind": "^7.24.7",
     "@babel/preset-react": "^7.24.7",
     "@types/picomatch": "^2.3.3",
-    "@typescript-eslint/parser": "^7.14.1",
+    "@typescript-eslint/parser": "^8.0.0-alpha.34",
     "babel-eslint": "^10.1.0",
     "eslint": "^9.5.0",
     "semver": "^7.6.2",
